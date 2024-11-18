@@ -1,0 +1,5 @@
+<div>
+    <img id="qrcode" alt="QR Code">
+</div>
+<script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+<script src="https://raw.githubusercontent.com/alexandreviolamelo/generateQRCode/8f355e3823e92ddda2e37d46fc6adc0799948551/generateQRCode.js"></script>
